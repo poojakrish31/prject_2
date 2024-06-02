@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 l learn some 
 
 this day_2 my Project 
+=======
+l learn some   ok next project _2
+>>>>>>> ffcae49f74eb31fc13f8858c0551176a291b2123
